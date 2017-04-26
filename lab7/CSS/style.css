@@ -1,0 +1,9 @@
+html{font-size:12px;font-family:Arial;line-height:2em;color: gray}
+a:link{text-decoration: none;color: #727272;}
+a:visited{color: #727272;}
+a:hover{text-decoration: underline;}
+.title:link{color: white}
+.title:visited{color: white}
+.title:hover{text-decoration: none;color: #b9f605}
+#title1{text-decoration: none;color: #fdb306}
+#title2{text-decoration: none;font-size:14px;color:#b9f605}
