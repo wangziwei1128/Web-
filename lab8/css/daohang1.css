@@ -1,0 +1,7 @@
+#titlediv{background-image: url(../image/left_nav_title.gif);background-repeat: no-repeat;width: 300px;height: 35px;padding-top: 10px;padding-left: 60px;margin-left: 50px; margin-bottom: 0px; color: white}
+ul{list-style-image: url(../image/left_cur.gif);background-image:url(../image/left_nav_txt.gif); width:160px;height: 80px;margin-left: 50px; margin-top: 0px;margin-bottom: 0px;padding-left: 15px}
+li{background-image: url(../image/left_nav_item.gif);margin-left: 40px;padding-top: 5px;background-repeat: no-repeat;background-position:-3em 90%}
+a:link{text-decoration: none;color:black;}
+a:visited{color: black}
+a:active{color: red;}
+.menu{width: 233px;height: 160px; background-image: url(../image/left_nav_bottom.gif);background-repeat: no-repeat;background-position:right bottom}
