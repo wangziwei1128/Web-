@@ -1,0 +1,51 @@
+*{margin: 0 auto;padding: 0px;font-family: '宋体';list-style-type: none;}
+body{font-size: 12px;background-image: url(../images/bodybg.gif);background-repeat: repeat-x;color: #522a06;}
+a:link{text-decoration: none;}
+a:visited{text-decoration: none;}
+a:hover{text-decoration: underline;color:}
+#header{height: 205px;background-image:url(../images/bg.gif);background-repeat: no-repeat;background-position: center top; }
+#banner{width: 1000px;height: 164px;margin: 0 auto}
+#banner_logo{display: block;position: relative;left: 25px;top: 38px}
+#nav{height: 40px;background-image: url(../images/nav.jpg);}
+.nav_body{width: 1000px;margin: 0 auto;}
+.nav_content{width: 800px;padding-top: 10px;font-weight: bolder;color:#fff; float: left}
+.nav_contents:link{text-decoration: none;color: #fff;}
+.nav_contents:visited{color: #fff;text-decoration: none;}
+.nav_contents:hover{text-decoration: none;color: #f9f603;}
+#shouye:link{text-decoration: none;color:#f9f603;}
+#shouye:visited{text-decoration: none;color:#f9f603;}
+#shouye:hover{text-decoration: none;color:#f9f603;}
+.one{width: 140px;height: 19px;background-color: #f8f5ee;float: left;margin-top: 10px}
+.two{width: 44px;height: 21px;margin-top: 12px;background-color: #000;color: white}
+
+#content{width: 1000px;margin: 0 auto;overflow: hidden;}
+#content_left{width: 700px;float: left;}
+#content_left_top1{height: 45px;line-height: 45px;border-bottom: 1px solid #c9baa5;font-size: 16px;font-weight: bolder;text-align: center;}
+#content_left_top2{font-size: 12px;color: #757575;text-align: center;margin: 10px;}
+#content_left_content{line-height: 28px;padding: 10px;font-size: 14px;border-bottom: 1px solid #c9baa5}
+#duanluo1{margin-top: 5px}
+#chatu{width: 550px;height: 366px;background-image: url(../images/huiyi.jpg);margin: 20px auto }
+#content_left_bottom{height: 40px;line-height: 40px;margin-top: 10px;font-size: 13px;}
+.lianjie{float: left;margin-right: 40px;}
+.lianjie1{color: #844004;font-size: 13px}
+
+#content_right{width: 280px;margin-left: 16px;float: left;margin-top: 40px}
+#content_right_top{border: 1px solid #c9baa5;background-image: url(../images/bg.png);margin-bottom: 20px;}
+#top{width: 200px;height: 30px;background-image: url(../images/news.png);background-repeat: no-repeat;background-position: center;margin-bottom: 10px}
+.liebiao{line-height: 30px;margin-left: 13px}
+#content_right_bottom{width: 280px;margin-top: 20px;margin-bottom: 20px;}
+#content_right_bottom_top{width: 114px;height: 23px;margin-top: 25px;margin-bottom: 15px;margin-left: auto;background-image: url(../images/show.png);background-repeat: no-repeat;}
+#content_right_bottom_content{height: 362px;background-image: url(../images/show_bg.png);}
+#mingjia{width: 224px;height: 187px;background-image: url(../images/mingjia.jpg);margin-left: 25px;margin-top: 25px}
+#jieshao{margin-top: 15px;margin-left: 25px;margin-right: 30px;line-height: 20px}
+#jieshao1{font-weight: bolder;color: #b70000;}
+
+#footer{width: 1000px;height: 105px;clear: both;background-image: url(../images/foot.gif);background-repeat: no-repeat;margin: 0 auto}
+.yejiao{display: inline;}
+#lianjie{width: 1000px;text-align: center;}
+.yejiao1:link{text-decoration: none;color: #522a06;font-weight: bolder;}
+.yejiao1:visited{text-decoration: none;color: #522a06}
+.yejiao1:hover{text-decoration: underline;color: #522a06}
+#fenge{width: 1000px;height: 5px;background-image: url(../images/line.jpg);background-repeat: no-repeat;background-position: center top;}
+#sm1{width: 1000px;margin: 10px auto;font-weight: bold;color: #522a06;text-align: center;}
+#sm2{width: 1000px;margin: 0 auto;font-weight: bold;content: #522a06;text-align: center;}

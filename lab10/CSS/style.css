@@ -1,0 +1,60 @@
+body{font-size: 12px;color: #522a06;padding: 0px;font-family: '宋体';background-image:url(../images/bodybg.gif);}
+#header{height: 205px;background-image:url(../images/bg.gif);background-repeat: no-repeat;background-position: center top; }
+#banner{width: 1000px;height: 164px;margin: 0 auto}
+#banner_logo{display: block;position: relative;left: 25px;top: 38px}
+#nav{height: 40px;background-image: url(../images/nav.jpg);}
+.nav_body{width: 1000px;margin: 0 auto;}
+.nav_content{width: 800px;padding-top: 10px;font-weight: bolder;color:#fff; float: left}
+.nav_contents:link{text-decoration: none;color: #fff}
+.nav_contents:visited{color: #fff;text-decoration: none;}
+.nav_contents:hover{text-decoration: none;color: #f9f603;}
+#shouye:link{text-decoration: none;color:#f9f603;}
+#shouye:visited{text-decoration: none;color:#f9f603;}
+#shouye:hover{text-decoration: none;color:#f9f603;}
+.one{width: 140px;height: 19px;background-color: #f8f5ee;float: left;margin-top: 10px}
+.two{width: 44px;height: 21px;margin-top: 12px;background-color: #000;color: white}
+#content{width: 1000px;margin: 0 auto;clear: both;}
+#content_top{overflow: hidden;}
+#content_top_left{width: 715px;float: left;}
+#content_top_right{width: 280-x;margin-top: 20px;float: right;}
+.news_pic{width: 324px;height: 243px;background-image: url(../images/news_bg.png);float: left;}
+#tupian{margin: 0 auto; width: 300px;height: 200px;background-image: url(../images/news.jpg);}
+#wenzi{width: 300px;height: 22px;margin: 12px 85px}
+#news_list{width: 330px;margin-left: 38px;float: left;}
+.news1{background-image: url(../images/change.png);background-repeat: no-repeat;height: 30px;width:302px ;float: left;}
+.news{height: 30px;width: 220px;float: left}
+ul{list-style-type: none;}
+.news:link{text-decoration: none;color: #522a06}
+.news:visited{text-decoration: none;color: #522a06}
+.news:hover{text-decoration: underline;color: #522a06}
+.rq{display: block;margin: 16px;}
+.news_announce{width: 277px;margin-top: 20px;float: right;}
+#bj{width: 113px;height: 25px;background-image: url(../images/board.png);background-repeat: no-repeat;margin: 0 auto;}
+#lb{width: 285px;height: 210px;background-image: url(../images/board_bg.png);float: left;}
+.acamedic{width: 340px;height: 243px;float: left;}
+#biaoti{height: 54px;background-image: url(../images/academic.png);width: 315px;float: left;}
+.more{display: block;float: right;height: 5px;position: relative;right: 0px top:0px;}
+.book_news{width: 340px;margin-left: 25px;height: 243px;float: left;}
+#biaoti1{height: 54px;background-image: url(../images/book_news.png);width: 315px;float: left;}
+.fengcai{width: 700px;clear: both;float: left;}
+#biaoti2{height: 54px;width: 680px;float: left;}
+.image{background-image: url(../images/fengcai.png);background-repeat: no-repeat;height: 260px;padding: 20px}
+.image1{display: block;float: left;height: 136px;}
+#content_bottom_right{width: 290px;height: 450px;float: right;}
+#biaoti3{height: 23px;background-image: url(../images/show.png);background-repeat: no-repeat;width: 120px;margin:20px 80px;float: left;}
+#beijing{width: 362px;background-image: url(../images/show_bg.png);background-repeat: no-repeat;height: 362px;float: left;}
+#content_bottom_left{float: left;}
+#mingjia{width: 275px;height: 187px;background-image: url(../images/mingjia.jpg);background-repeat: no-repeat;background-position: center top;margin-top: 20px;float: left;}
+#jieshao{width: 230px;margin: 20px;float: left;}
+#jieshao1{font-weight: bolder;color: red;font-size: 12px}
+#jieshao2{color: #522a06}
+#gengduo{display: block;float: right;margin-top: 20px;}
+#footer{width: 1000px;height: 105px;clear: both;background-image: url(../images/foot.gif);background-repeat: no-repeat;margin: 0 auto}
+.yejiao{display: inline;}
+#lianjie{margin: 0 auto;width: 550px}
+.yejiao1:link{text-decoration: none;color: #522a06;font-weight: bolder;}
+.yejiao1:visited{text-decoration: none;color: #522a06}
+.yejiao1:hover{text-decoration: underline;color: #522a06}
+#fenge{width: 1000px;height: 5px;background-image: url(../images/line.jpg);background-repeat: no-repeat;background-position: center top;}
+#sm1{width: 400px;margin: 10px auto;font-weight: bold;color: #522a06}
+#sm2{width: 290px;margin: 0 auto;font-weight: bold;content: #522a06}
