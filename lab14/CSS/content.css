@@ -1,0 +1,64 @@
+*{margin: 0 auto;padding: 0px;font-size: 16px;color: #522a06;font-family: '宋体';}
+body{background-color: #E6E0BE}
+ul,li{list-style-type: none;}
+a:link{text-decoration: none;}
+a:visited{text-decoration: none;}
+a:hover{text-decoration: underline;}
+#header{height: 313px;background-image: url(../images/bg1.jpg);background-repeat: no-repeat;background-position: center top;}
+#banner{width: 1300px;height: 300px;margin:0 auto;}
+#banner_logo{display: block;float: left;position: relative;left: 0px;top:25px;}
+#title{width: 300px;float: right;position: relative;top: 150px;font-family: '微软雅黑';color: #A73A01}
+#nav{height: 90px;float: left;}
+.nav_body{width: 1300px;margin: 0 auto;float: left;}
+.nav_content{width: 1000px;margin-top :50px;padding-top: 10px;font-weight: bolder;color: #ED625F;float: left;text-align: center;}
+.nav_contents:link{text-decoration: none;color: #ED625F}
+.nav_contents:visited{text-decoration: none;color: #ED625F;}
+.nav_contents:hover{text-decoration: none;color: #f9f603;}
+#shouye:link{text-decoration: none;color:#f9f603;}
+#shouye:visited{text-decoration: none;color:#f9f603;}
+#shouye:hover{text-decoration: none;color:#f9f603;}
+.nav_search{width: 180px;float: left;margin-top: 50px}
+.one{width: 100px;height: 19px;background-color: #FA987D;}
+.two{width: 40px;height: 21px;background-color: #2DA298;color: white;margin-left: 10px}
+
+#content{width: 1000px;margin: 0 auto;clear: both;overflow: hidden;}
+#position{width: 180px;height: 20px;line-height: 20px;font-size: 10px;margin-left: 10px;}
+#start{font-size: 10px}
+.wish{width: 1000px;height: 1300px;margin-top: 20px}
+.wish1{width: 1000px;height: 250px}
+#wishp1{width: 200px;height: 181px;background-image: url(../images/wish1.jpg);float: left;margin-top: 20px;margin-left: 100px}
+#expression{width: 300px;height: 112px;background-image: url(../images/exbg.jpg);opacity: 0.8;float: left;margin-left: 40px;margin-top: 130px;}
+#w{text-align: center;font: 18px '华文行楷';color: #8000FF;margin-top: 20px;}
+#wishp2{width: 200px;height: 178px;background-image: url(../images/wish2.jpg);float: left;margin-left: 40px;margin-top: 20px}
+.wish2{width: 1000px;height: 290px}
+#wishp3{width: 200px;height: 267px;background-image: url(../images/wish3.jpg);float: left;margin-top: 10px;}
+#wishv1{width: 500px;height: 290px;float: left;margin-left: 40px;float: left;}
+#wishp4{width: 200px;height: 268px;background-image: url(../images/wish4.jpg);float: left;margin-left: 40px;margin-top: 10px;}
+.wish3{width: 1000px;height: 252px;}
+#wishp5{width: 200px;height: 249px;background-image: url(../images/wish5.jpg);float: left;margin-left: 60px}
+#wishv2{width: 300px;float: left;margin-left: 80px;margin-top: 40px}
+#wishp6{width: 200px;height: 252px;background-image: url(../images/wish6.jpg);float: left;margin-left: 80px}
+#wishp7{width: 200px;height: 238px;background-image: url(../images/wish7.jpg);float: left;margin-left: 140px;margin-top: 10px}
+#wishv3{width: 200px;float: left;margin-left: 50px;margin-top: 30px}
+#wishp8{width: 200px;height: 233px;background-image: url(../images/wish8.jpg);float: left;margin-left: 60px;margin-top: 10px}
+.wish5{width: 1000px;height: 271px}
+#wishp9{width: 200px;height: 271px;background-image: url(../images/wish9.jpg);float: left;margin-top: 20px;}
+.news{width: 900px;height: 600px;background-color: #C5E9DE}
+#ntitle{width: 1000px;height: 30px;font-size: 20px;font-family: '幼圆';text-align: center;}
+#newcontent{width: 800px;margin-top: 10px}
+p{font-size: 16px;font-family: '华文行楷';color: black}
+.comment{width: 300px;height: 385px;background-image: url(../images/combg.jpeg);float: left;margin-left: 50px;margin-top: 20px}
+#intro{width: 250px;height: 100px;font-size: 15px;font-family: '华文行楷';padding-top: 10px;border: 1px dotted black}
+#comform{margin-top: 120px;margin-left: 15px}
+input[type="submit"]{width: 35px;height: 20px;font-size: 10px;float: right;margin-right: 30px}
+#comlist{width: 520px;height: 300px;float: left;margin-top: 20px;margin-left: 50px; background:#FA987D}
+
+
+#footer{width: 1000px;height: 105px;clear: both;background-image: url(../images/foot.gif);background-repeat: no-repeat;margin: 0 auto;margin-top: 20px}
+#lianjie{width: 1000px;text-align: center;}
+.yejiao:link{text-decoration: none;color: #522a06;font-weight: bolder;font-size: 13px}
+.yejiao:visited{text-decoration: none;color: #522a06}
+.yejiao:hover{text-decoration: underline;color: #522a06}
+#fenge{width: 600px;height: 1px;background-image: url(../images/line.jpg);background-position: center top;}
+#sm1{width: 1000px;margin: 10px auto;font-weight: bold;color: #522a06;text-align: center;font-size: 13px}
+#sm2{width: 1000px;margin: 0 auto;font-weight: bold;color: #522a06;text-align: center;font-size: 13px}
